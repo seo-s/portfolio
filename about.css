@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  #presentation{
+    display: flex;
+  }
+
+  #version{
+    margin-top: 10px;
+    font-size: 12px;
+  }
+
+  .box{
+    font-size: 15px;
+    font-style: thin;
+    font-variant: thin;
+    font-weight: 400;
+    border: 2px solid lightgray;
+    margin-top: 30px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: left;
+    height: 50px;
+    overflow: scroll;
+    margin-bottom: 30px;
+  }
+  .promotion{
+    font-size: 15px;
+    font-style: thin;
+    font-variant: thin;
+    font-weight: 400;
+    text-align: center;
+  }
+  
+  #Thankyou{
+    margin-bottom: 80px;
+  }
+  
+  .category{
+    margin-top: 30px;
+    font-size: 15px;
+    font-style: thin;
+    font-variant: thin;
+    font-weight: 400;
+    text-align: left;
+  }
+  
+  .categories{
+    font-size: 13px;
+    font-style: thin;
+    font-variant: thin;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .contact{
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: thin; font-variant: thin; font-weight: 400; line-height: 17px;
+  }
+  
+  #copy{
+    color: black;
+    font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: thin; font-variant: thin; font-weight: 400; line-height: 10px;
+  }
