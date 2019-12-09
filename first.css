@@ -39,19 +39,19 @@ body {
 }
 
 .project-1 {
- background-image: url("assets/memory.jpg");
+ background-image: url("memory.jpg");
  background-size: 200%;
 }
 .project-2 {
-  background-image: url("assets/time.jpg");
+  background-image: url("time.jpg");
   background-size: 150%;
 }
 .project-3 {
-  background-image: url("assets/idol.JPG");
+  background-image: url("idol.JPG");
   background-size: 200%;
 }
 .project-4 {
-  background-image: url("assets/daydream.jpg");
+  background-image: url("daydream.jpg");
   background-size: 250%;
 }
 
