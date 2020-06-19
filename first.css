@@ -37,14 +37,15 @@ body {
   opacity: 0.6;
 }
 
-.project-1 {
- background-image: url("memory.jpg");
- background-size: 200%;
-}
 .project-2 {
   background-image: url("book-06.jpg");
   background-size: 150%;
 }
+.project-1 {
+ background-image: url("memory.jpg");
+ background-size: 200%;
+}
+
 .project-3 {
   background-image: url("idol.JPG");
   background-size: 200%;
